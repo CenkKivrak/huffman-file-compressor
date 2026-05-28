@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Project specific binary and test files
+*.bin
+decoded.txt
+test.txt
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+bin/
+out/
